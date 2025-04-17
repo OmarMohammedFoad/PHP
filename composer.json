@@ -1,5 +1,13 @@
 {
-    "require": {
-        "vlucas/phpdotenv": "^5.5"
+  "name": "omarfouad/lab3",
+  "autoload": {
+    "classmap": ["src"]
+  },
+  "authors": [
+    {
+      "name": "Omar Muhammad",
+      "email": "cds.omarmuhammad92694@alexu.edu.eg"
     }
+  ],
+  "require": {}
 }
